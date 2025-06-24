@@ -1,0 +1,15 @@
+# Python 3.9.7 (请保证你的环境是这个版本)
+matplotlib==3.6.2
+numpy==1.24.4
+scikit-learn==1.1.3
+setuptools==65.5.0
+sympy==1.11.1
+torch==2.2.2
+tqdm==4.66.2
+pandas==2.0.1
+seaborn
+pyyaml
+imageio
+
+# 从 GitHub 安装 efficient-kan
+efficient-kan @ git+https://github.com/Blealtan/efficient-kan.git
